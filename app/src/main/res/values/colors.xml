@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000A12</color>
+    <color name="colorPrimaryDark">#000a12</color>
+    <color name="colorAccent">#c49b5e</color>
+    <color name="green">#078C00</color>
+    <color name="greyDark">#dd6D853F</color>
+    <color name="greyLight">#0EBB00</color>
+    <color name="camerabtnm">#D80707</color>
+    <color name="camerabtns">#7A000000</color>
+    <color name="black">#000a12</color>
+
+    <color name="newgrn">#000a12</color>
+    <color name="newgrndark">#263238</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>

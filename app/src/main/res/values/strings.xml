@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Frecycle</string>
+
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="btn_scan_now">Scan Now</string>
+    <string name="scan_bar_code">Scan a Bar Code</string>
+    <string name="action_settings">Settings</string>
+    <string name="barcode_btn_name">SCAN</string>
+    <string name="imageai_btn_name">ImageAI</string>
+    <string name="photo">graph</string>
+    <string name="name">F-recycle</string>
+    <string name="p_name"> product name </string>
+    <string name="p_n"> Nearby Recycling centers </string>
+
+    <string name="info"> information </string>
+    <string name="title_activity_tab4_fragment">Tab4Fragment</string>
+    <string name="settings_title">settings</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="password2">confirm password</string>
+    <string name="log">LogIn</string>
+    <string name="signup">Sign In</string>
+    <string name="minimum_password">minimum password six characters</string>
+    <string name="auth_failed">wrong email or password</string>
+    <string name="auth_failer">wrong email or password</string>
+    <string name="metal">recycled metal</string>
+    <string name="glass">recycled glass</string>
+    <string name="wood">recycled wood</string>
+    <string name="rubber">recycled rubber</string>
+    <string name="plastic">recycled plastic</string>
+
+</resources>

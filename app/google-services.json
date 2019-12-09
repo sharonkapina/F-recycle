@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "122524982881",
+    "firebase_url": "https://frecycleapp.firebaseio.com",
+    "project_id": "frecycleapp",
+    "storage_bucket": "frecycleapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122524982881:android:3e8b7dcdb3e9a681221420",
+        "android_client_info": {
+          "package_name": "com.skapina.frecycle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122524982881-6sq2g7tj6vdk55i6fakqki1d4vhqmfoe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skapina.frecycle",
+            "certificate_hash": "0976e7b1b440e96764f691badc59254905c17568"
+          }
+        },
+        {
+          "client_id": "122524982881-7o4a1vc5om6ivd2p1phr98v7gib9l4ir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skapina.frecycle",
+            "certificate_hash": "1f25c492c647b0c3a47469358dbaf1c0cfc894c8"
+          }
+        },
+        {
+          "client_id": "122524982881-bvt1gu25ngl66trv37mv1i9ka4uu8l8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdX8V0XGkiEonpuHnmDqkIjLXgCEKWHk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122524982881-bvt1gu25ngl66trv37mv1i9ka4uu8l8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
